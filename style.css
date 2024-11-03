@@ -1,0 +1,25 @@
+header{
+    color: white
+}
+body {
+    background-color: black;
+    padding: 10px;
+  }
+  
+  h1 {
+    color: pink;
+    text-align: center;
+  }
+  h2 {
+    color: pink;
+    text-align: center;
+  }
+  p {
+    font-family: verdana;
+    font-size: 18px;
+    color: rgb(0, 238, 255);
+  }
+  #image{
+    position:absolute;
+    width: 5%;
+    }
